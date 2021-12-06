@@ -1,9 +1,9 @@
 ---
 layout: home
-title: 
+title: Maker Education
 ---
 
-## Topics 
+
 - [Makerspaces](topics/makerspaces.md)
 - [Fab Labs](topics/fablabs.md) 
 - Digital Fabrication 
