@@ -1,20 +1,16 @@
 ---
 layout: home
+title: 
 ---
 
 ## Topics 
-[Makerspaces](topics/makerspaces.md)
-[Fab Labs](topics/fablabs.md) 
-
-Digital Fabrication 
-
-Computer-Aided Design
-
-Computer-Controlled Cutting
-
-Additive Manufacturing
-
-Embedded Programming
+- [Makerspaces](topics/makerspaces.md)
+- [Fab Labs](topics/fablabs.md) 
+- Digital Fabrication 
+- Computer-Aided Design
+- Computer-Controlled Cutting
+- Additive Manufacturing
+- Embedded Programming
 
 ## Places 
 Organizations 
