@@ -1,6 +1,6 @@
 
 ## Topics 
-[Makerspaces]({% link makerspaces.md %})
+[Makerspaces]({% link maker-education/makerspaces.md %})
 
 Fab Labs 
 
