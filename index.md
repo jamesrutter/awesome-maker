@@ -1,0 +1,47 @@
+
+## Topics 
+Makerspaces & Fab Labs 
+Digital Fabrication 
+Computer-Aided Design
+Computer-Controlled Cutting
+Additive Manufacturing
+Embedded Programming
+
+## Places 
+Organizations 
+Schools 
+Labs 
+Spaces 
+Events 
+
+## Hardware 
+Machines 
+Materials 
+
+## Programs 
+Apprenticeships 
+Afterschool 
+Residencies 
+Community
+
+## Resources 
+Websites 
+Media 
+Vendors 
+
+## People 
+Artists 
+Designers 
+Educators 
+Inventors 
+
+## Research 
+Journal Articles 
+Conference Papers 
+Literature Reviews 
+
+## Projects 
+
+## Services 
+
+## Software 
