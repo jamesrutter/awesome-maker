@@ -1,6 +1,7 @@
 
 ## Topics 
-Makerspaces & Fab Labs 
+[Makerspaces]({% link _topics/makerspaces.md %})
+Fab Labs 
 Digital Fabrication 
 Computer-Aided Design
 Computer-Controlled Cutting
@@ -45,3 +46,9 @@ Literature Reviews
 ## Services 
 
 ## Software 
+
+--- 
+
+## Roadmap 
+Ideas
+Works in Progress 
