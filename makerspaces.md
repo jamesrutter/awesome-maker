@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Makerspaces 
+layout: page
+title: "Makerspaces"
+permalink: /makerspaces/
 ---
 
 # Makerspaces 

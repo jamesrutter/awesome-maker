@@ -1,11 +1,17 @@
 
 ## Topics 
-[Makerspaces]({% link _topics/makerspaces.md %})
+[Makerspaces]({% link makerspaces.md %})
+
 Fab Labs 
+
 Digital Fabrication 
+
 Computer-Aided Design
+
 Computer-Controlled Cutting
+
 Additive Manufacturing
+
 Embedded Programming
 
 ## Places 
