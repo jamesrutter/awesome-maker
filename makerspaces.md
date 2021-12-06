@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Makerspaces"
-permalink: /makerspaces/
+title: Makerspaces
 ---
 
 # Makerspaces 
