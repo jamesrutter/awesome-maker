@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Makerspaces
+permalink: /makerspaces/
+---
 
 # Makerspaces 
 
