@@ -5,7 +5,6 @@ permalink: /makerspaces/
 ---
 
 # Makerspaces 
-
 This is the landing page for makerspaces. 
 
 ## What is a makerspace? 
